@@ -1,6 +1,5 @@
 # 🏢 Infraestrutura Completa para Empresas 🚀
 
-![Banner](banner.png)
 
 ## 📌 Visão Geral
 > **Uma solução completa para redes empresariais, integrando segurança, automação e monitoramento!**
