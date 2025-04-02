@@ -22,7 +22,7 @@ Este projeto visa construir uma **infraestrutura de rede completa** para uma emp
 🔹 **Backup automatizado** para garantir disponibilidade de dados.
 
 📌 **Topologia do Projeto:**
-[Topologia](Image.png) 
+([Topologia](image.png))
 
 ---
 
